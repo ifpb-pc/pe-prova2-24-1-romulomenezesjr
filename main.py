@@ -11,7 +11,7 @@ def q2(s: List,t: List) -> bool:
     pass
 
 def q3() -> int:
-    pass
+    return 1213
 
 def q4():
     pass
